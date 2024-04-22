@@ -1,0 +1,9 @@
+{
+  "iou": 0.45,
+  "conf": 0.25,
+  "rate": 10,
+  "save_res": 0,
+  "save_txt": 0,
+  "save_res_cam": 0,
+  "save_txt_cam": 0
+}
