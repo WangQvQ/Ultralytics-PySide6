@@ -2,7 +2,7 @@
 
 ## 页面效果
 
-![main](assets\main-page.png)
+![main](assets/main-page.png)
 
 ## 如何使用
 - `python>=3.8`
