@@ -2,12 +2,12 @@
 
 ## 页面效果
 
+![](assets\main-page.png)
 
 ## 如何使用
 - `python>=3.8`
 - `pip install ultralytics==8.1.0` or `git clone --branch v8.1.0 --single-branch https://github.com/ultralytics/ultralytics.git`
-- `pip install pyside6`
-- `pip install chardet`
+- `pip install pyside6 chardet`
 - `pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113`
 - `python main.py`
 
@@ -43,6 +43,8 @@
 
 
 ## References
+
+- [作者CSDN主页](https://yolov5.blog.csdn.net)
 - [PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5)
 - [ultralytics](https://github.com/ultralytics/ultralytics)
 - [PySide6-YOLOv8](https://github.com/Jai-wei/YOLOv8-PySide6-GUI/tree/main)
