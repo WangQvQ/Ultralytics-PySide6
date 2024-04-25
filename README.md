@@ -41,6 +41,19 @@
 - UI 设计文件是 `home.ui`，如果修改它，您需要使用 `pyside6-uic home.ui > ui/home.py` 命令来重新生成 `.py` 文件。
 - 资源文件是 `resources.qrc`，如果您修改了默认图标，需要使用 `pyside6-rcc resources.qrc > ui/resources_rc.py` 命令来重新生成 `.py` 文件。
 
+## Cite
+```
+@software{wangqvq_2024_11063548,
+  author       = {WangQvQ},
+  title        = {WangQvQ/Ultralytics-PySide6: v1.0},
+  month        = apr,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.11063548},
+  url          = {https://doi.org/10.5281/zenodo.11063548}
+}
+```
 
 ## References
 
