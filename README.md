@@ -41,6 +41,10 @@
 - UI 设计文件是 `home.ui`，如果修改它，您需要使用 `pyside6-uic home.ui > ui/home.py` 命令来重新生成 `.py` 文件。
 - 资源文件是 `resources.qrc`，如果您修改了默认图标，需要使用 `pyside6-rcc resources.qrc > ui/resources_rc.py` 命令来重新生成 `.py` 文件。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=WangQvQ/Ultralytics-PySide6&type=Timeline)](https://star-history.com/#WangQvQ/Ultralytics-PySide6&Timeline)
+
 ## Cite
 ```
 @software{wangqvq_2024_11063548,
