@@ -1,6 +1,11 @@
 # YOLOv8-PySide --- 基于 ultralytics 8.1.0 发行版优化
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11063548.svg)](https://doi.org/10.5281/zenodo.11063548)
+
+**最新发布了web版本，不依赖PySide，欢迎关注** https://github.com/WangQvQ/ultraconsole
+
 ## 页面效果
+
+
 
 ![main](assets/main-page.png)
 
